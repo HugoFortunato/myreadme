@@ -15,7 +15,7 @@
   - CSS-in-JS (Styled Components)
   - Tailwind
   <br>
-  Coisas que eu sei/já pesquisei sobre: 🔭
+  Assuntos que tenho noção e/ou estou sempre estudando: 🔭
 
   - UI/UX Design
   - GraphQL
