@@ -23,10 +23,8 @@
   - Leaflet
   - Strapi
   - SSR
-  <br>
-  Interesses futuros: 📚
-  - MetaMask
-  - Smart Contracts
   - Blockchain
-  - Rust
+  - Smart Contracts
+  - MetaMask
+  <br>
 </samp>
