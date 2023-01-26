@@ -1,5 +1,5 @@
 <samp>
-  Olá! Eu sou o Hugo, trabalho como frontend developer. 👨🏻‍💻
+  Olá! Eu sou o Hugo e trabalho como frontend developer. 👨🏻‍💻
   <br/>
   <br/>
   Vamos conversar sobre alguma tech? <a href="https://cal.com/hugofortunato">me chame aqui!</a> 😉
@@ -24,7 +24,7 @@
   - Strapi
   - SSR
   <br>
-  Interesses e estudos futuros: 📚
+  Interesses futuros: 📚
   - MetaMask
   - Smart Contracts
   - Blockchain
