@@ -2,7 +2,7 @@
   Olá! Eu sou o Hugo, trabalho como frontend developer. 👨🏻‍💻
   <br/>
   <br/>
-  Quer me conhecer e entender melhor o meu trabalho? <a href="https://cal.com/hugo-fortunato">me chame aqui!</a> 😉
+  Vamos conversar falar sobre alguma tech? <a href="https://cal.com/hugofortunato">me chame aqui!</a> 😉
   <br/>
   <br/>
   Tecnologias que trabalho/trabalhei: 🎯
