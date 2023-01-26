@@ -2,7 +2,8 @@
   Olá! Eu sou o Hugo e trabalho como frontend developer. 👨🏻‍💻
   <br/>
   <br/>
-  Vamos conversar sobre alguma tech? <a href="https://cal.com/hugofortunato" target="_blank">Chega aê!</a> 😄
+  Vamos conversar sobre alguma tech? [I'm an inline-style link with title](https://www.google.com "Google's Homepage") 😄
+
   <br/>
   <br/>
   Tecnologias que trabalho/trabalhei: 🎯
