@@ -2,7 +2,7 @@
   Olá! Eu sou o Hugo e trabalho como frontend developer. 👨🏻‍💻
   <br/>
   <br/>
-  Vamos conversar sobre alguma tech? [I'm an inline-style link with title](https://www.google.com "Google's Homepage") 😄
+  Vamos conversar sobre alguma tech? <a href="doc:introduction" target="_blank">Introduction</a> 😄
 
   <br/>
   <br/>
