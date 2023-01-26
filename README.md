@@ -1,33 +1,32 @@
 <samp>
-  Desenvolvedor fullstack com foco em desenvolvimento web. 👨🏻‍💻
+  Olá! Eu sou o Hugo, trabalho como frontend developer. 👨🏻‍💻
   <br/>
   <br/>
-  Quer trocar uma ideia comigo sobre qualquer assunto tech? É só <a href="#">clicar aqui</a> 😉
+  Quer me conhecer melhor e entender melhor o meu trabalho? <a href="https://cal.com/hugo-fortunato">me chame aqui!</a> 😉
   <br/>
   <br/>
-  Tecnologias que eu domino ou estou habituado a usar todos os dias: 💪
+  Tecnologias que trabalho/trabalhei: 🎯
 
   - Typescript
-  - React (Nextjs, Vite, Remix)
-  - CSS-in-JS (Styled Components, Stitches)
-  - Node (Express, Nest, tRPC)
-  - APIs e Microserviços (REST, CQRS, EDA)
-  - Documentações (OpenAPI, AsyncAPI, Typedoc)
-  - GraphQL
-  - Websockets (Socket.io)
+  - React (Nextjs, Vite)
+  - React Testing Library
+  - Storybook
+  - Context API
+  - CSS-in-JS (Styled Components)
+  - Tailwind
   <br>
   Coisas que eu sei/já pesquisei sobre: 🔭
 
   - UI/UX Design
-  - DevOps
-  - Python
-  - UNIX
-  - Webscrapping
-  - Arduino e RaspberryPi (JohnnyFive)
+  - GraphQL
+  - Remix
+  - Leaflet
+  - Strapi
+  - SSR
   <br>
   Interesses e estudos futuros: 📚
-
-  - Rust
-  - GoLang
+  - MetaMask
+  - Smart Contracts
   - Blockchain
+  - Rust
 </samp>
