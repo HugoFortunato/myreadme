@@ -21,7 +21,6 @@
   - UI/UX Design
   - GraphQL
   - Remix
-  - Leaflet
   - Strapi
   - SSR
   - Blockchain
