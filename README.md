@@ -8,18 +8,20 @@
   <br/>
   Tecnologias que trabalho/trabalhei: 🎯
 
-  - Typescript
-  - React (Nextjs, Vite)
-  - React Testing Library
-  - Storybook
-  - Context API
-  - CSS-in-JS (Styled Components)
+  - Javascript/Typescript
+  - React (Nextjs, Vite, Remix (iniciando hehe))
   - Tailwind
+  - CSS-in-JS (Styled Components)
+  - Context API
+  - Redux Toolkit
+  - Zustand
+  - GraphQL
+  - Jest/React Testing Library
+  - Storybook
   <br>
   Assuntos que tenho noção e/ou estou sempre estudando: 🔭
 
   - UI/UX Design
-  - GraphQL
   - Remix
   - Strapi
   - SSR
